@@ -3,7 +3,7 @@
 <h1>FaceReverter</h1>
 </center>
 
-To install you can use faceReverterModule.lua and make a module. Or get the model on roblox and follow the instructions.
+To install you can use faceReverterModule.lua and make a module. Or get the model on [roblox](https://create.roblox.com/dashboard/creations/store/84351471308087/).
 
 ## Setup
 Drop the module in `ReplicatedStorage`, then call it from both the server and client:
