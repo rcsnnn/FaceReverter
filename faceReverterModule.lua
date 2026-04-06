@@ -6,7 +6,7 @@ ___________                  __________                           __
 |     \   / __ \\  \__\  ___/|    |   \  ___/\   /\  ___/|  | \/|  | \  ___/|  | \/
 \___  /  (____  /\___  >___  >____|_  /\___  >\_/  \___  >__|   |__|  \___  >__|   
 	By @rcsnnn - r_csn
-	- Just a tool that converts dynamic heads to their classic counterparts
+	Just a tool that converts dynamic heads to their classic counterparts
 ]]--
 
 local FaceReverterModule = {}
@@ -1560,7 +1560,7 @@ function FaceReverterModule.startClient()
 end
 
 
--- public api
+-- api
 
 
 -- manually convert a rig using the R6/R15 path. faceId defaults to the existing head decal.
